@@ -1,2 +1,2 @@
 # BLO-ML
-bilevel optimization for machine learning
+bi-level optimization for machine learning models.
