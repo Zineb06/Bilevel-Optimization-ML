@@ -1,2 +1,2 @@
 # BLO-ML
-bi-level optimization for machine learning models.
+bi-level optimization for skin cancer type classification
